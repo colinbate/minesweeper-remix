@@ -26,7 +26,7 @@ export default function Play() {
         <Grid {...data} />
       </div>
 
-      <div className="text-gray-500">Shift-click to set a flag.</div>
+      <div className="text-gray-500">Shift-click or toggle flag mode to set a flag.</div>
     </div>
   );
 }
